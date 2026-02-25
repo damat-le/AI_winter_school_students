@@ -19,17 +19,9 @@ batch_options="--ntasks 4 \
                --mem 400GB"
 ##### DON'T CHANGE AFTER HERE  ########
 
-# Install chappyner in a virtual environment (if not already present)
-# The path of the virtual environment is $HOME/.chappyner/venv
-if [[ ! -f "$HOME/.chappyner/venv/bin/chappyner" ]]; then
-    echo "Chappyner will be installed in a virtual environment in the following path: $HOME/.chappyner/venv"
-    read -p "Press Enter to continue..."
-
-    echo "---------------------------"
-    mkdir -p $HOME/.chappyner
-    python3 -m venv $HOME/.chappyner/venv
-    $HOME/.chappyner/venv/bin/pip install chappyner
-    echo "---------------------------"
+# enter the path where chappyner is installed (if not in PATH)
+if [ -z "${chappyner_env_path:-}" ]; then
+    read -p "Enter the path to the virtual env where chappyner is installed: " chappyner_env_path
 fi
 
 # Ask username if 'user' is not set
@@ -52,4 +44,4 @@ chappyner_options="$chappyner_options --no-startup-script --engine socket"
 #fi
 
 # Start tool via chappyner
-$HOME/.chappyner/venv/bin/chappyner $chappyner_options $batch_options
+$chappyner_env_path/bin/chappyner $chappyner_options $batch_options
