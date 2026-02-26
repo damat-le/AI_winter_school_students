@@ -1,6 +1,6 @@
 # Adding Knowledge to LLMs
 
-Lecturers: Alexandros , Guillelme 
+Lecturers: Alexandros Paliouras, Guillem Rovira Cortiada
 
 Methods:
 * prompting
