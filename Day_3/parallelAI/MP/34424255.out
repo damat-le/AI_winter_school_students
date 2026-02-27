@@ -1,0 +1,1547 @@
+Loading cuda/12.2
+  Loading requirement: libiconv/1.17-nhc3mhm xz/5.4.6-xxxg42c
+    zlib-ng/2.1.6-jkgunjc libxml2/2.10.3-zbbe7lm
+###NNODES:16\n
+ 8: ⚙️  Running in WANDB offline mode
+14: ⚙️  Running in WANDB offline mode
+ 8: ⚙️  Running in WANDB offline mode
+ 8: ⚙️  Running in WANDB offline mode
+15: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+15: 
+15: 
+15: ⚙️  Running in WANDB offline mode
+ 8: ⚙️  Running in WANDB offline mode
+14: ⚙️  Running in WANDB offline mode
+ 3: ⚙️  Running in WANDB offline mode
+ 3: ⚙️  Running in WANDB offline mode
+ 4: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 4: 
+ 4: 
+14: ⚙️  Running in WANDB offline mode
+ 5: ⚙️  Running in WANDB offline mode
+ 5: ⚙️  Running in WANDB offline mode
+ 3: ⚙️  Running in WANDB offline mode
+ 4: ⚙️  Running in WANDB offline mode
+ 2: ⚙️  Running in WANDB offline mode
+ 5: ⚙️  Running in WANDB offline mode
+ 2: ⚙️  Running in WANDB offline mode
+ 5: ⚙️  Running in WANDB offline mode
+ 6: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 6: 
+ 6: 
+ 6: ⚙️  Running in WANDB offline mode
+14: ⚙️  Running in WANDB offline mode
+ 7: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 7: 
+ 7: 
+ 7: ⚙️  Running in WANDB offline mode
+ 2: ⚙️  Running in WANDB offline mode
+ 3: ⚙️  Running in WANDB offline mode
+11: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+11: 
+ 9: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 9: 
+11: ⚙️  Running in WANDB offline mode
+11: ⚙️  Running in WANDB offline mode
+ 9: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 9: 
+ 1: ⚙️  Running in WANDB offline mode
+ 1: ⚙️  Running in WANDB offline mode
+ 2: ⚙️  Running in WANDB offline mode
+ 1: ⚙️  Running in WANDB offline mode
+10: ⚙️  Running in WANDB offline mode
+10: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+10: 
+ 1: ⚙️  Running in WANDB offline mode
+10: ⚙️  Running in WANDB offline mode
+12: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+12: 
+12: 
+12: 
+ 0: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+ 0: 
+ 0: 
+ 0: 
+13: ⚙️  Running in WANDB offline mode
+13: ⚙️  Running in WANDB offline mode⚙️  Running in WANDB offline mode
+13: 
+13: ⚙️  Running in WANDB offline mode
+14: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+14: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+14: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+14: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 6: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 6: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 6: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 6: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 8: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 0: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 0: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 0: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 0: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 8: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 8: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 8: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 9: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 9: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 3: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 9: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 9: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 7: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 5: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 7: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 7: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 4: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 4: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 3: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 4: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 1: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 3: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 3: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+11: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+11: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 2: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 5: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 7: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 5: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+15: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+15: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+15: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 5: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+10: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 4: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+11: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+11: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 1: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 1: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 1: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 2: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 2: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 2: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+15: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+10: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+10: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+10: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+12: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+12: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+12: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+12: INFO 02-18 17:39:07 [__init__.py:241] Automatically detected platform cuda.
+ 8: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 8: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 8: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 5: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 5: 
+ 5: 
+ 6: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 7: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+14: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+14: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+14: 
+ 8: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+15: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 5: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 4: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 3: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 6: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 6: 
+ 3: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 6: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 3: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 7: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 7: 
+ 7: 
+15: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+15: 
+14: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 1: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 2: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+15: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 4: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 1: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 1: 
+11: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+11: 
+ 4: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 2: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 2: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 4: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 3: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 1: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 2: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+11: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+11: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+12: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+12: 
+12: 
+12: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0: using world size: 64, data-parallel size: 4, context-parallel size: 1, hierarchical context-parallel sizes: None, tensor-model-parallel size: 4, pipeline-model-parallel size: 4
+ 0: 
+ 0: 
+ 0: WARNING: overriding default arguments for tokenizer_type:GPT2BPETokenizer                        with tokenizer_type:HuggingFaceTokenizer
+ 0: WARNING: Setting args.overlap_p2p_comm and args.align_param_gather to False since non-interleaved schedule does not support overlapping p2p communication and aligned param AG
+ 0: Number of virtual stages per pipeline stage: None
+ 0: accumulate and all-reduce gradients in fp32 for bfloat16 data type.
+ 0: using torch.bfloat16 for parameters ...
+ 0: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0: ------------------------ arguments ------------------------
+ 0:   account_for_embedding_in_pipeline_split ......... False
+ 0:   account_for_loss_in_pipeline_split .............. False
+ 0:   accumulate_allreduce_grads_in_fp32 .............. True
+ 0:   activation_func_clamp_value ..................... None
+ 0:   adam_beta1 ...................................... 0.9
+ 0:   adam_beta2 ...................................... 0.95
+ 0:   adam_eps ........................................ 1e-08
+ 0:   add_bias_linear ................................. False
+ 0:   add_position_embedding .......................... True
+ 0:   add_qkv_bias .................................... False
+ 0:   adlr_autoresume ................................. False
+ 0:   adlr_autoresume_interval ........................ 1000
+ 0:   align_grad_reduce ............................... True
+ 0:   align_param_gather .............................. False
+ 0:   allow_ambiguous_pad_tokens ...................... False
+ 0:   app_tag_run_name ................................ None
+ 0:   app_tag_run_version ............................. 0.0.0
+ 0:   apply_layernorm_1p .............................. False
+ 0:   apply_query_key_layer_scaling ................... False
+ 0:   apply_residual_connection_post_layernorm ........ False
+ 0:   apply_rope_fusion ............................... True
+ 0:   async_save ...................................... None
+ 0:   async_tensor_model_parallel_allreduce ........... True
+ 0:   attention_backend ............................... AttnBackend.auto
+ 0:   attention_dropout ............................... 0.0
+ 0:   attention_output_gate ........................... False
+ 0:   attention_softmax_in_fp32 ....................... False
+ 0:   auto_detect_ckpt_format ......................... False
+ 0:   barrier_with_L1_time ............................ True
+ 0:   bert_binary_head ................................ True
+ 0:   bert_embedder_type .............................. megatron
+ 0:   bert_load ....................................... None
+ 0:   bf16 ............................................ True
+ 0:   bias_dropout_fusion ............................. True
+ 0:   bias_gelu_fusion ................................ False
+ 0:   bias_swiglu_fusion .............................. True
+ 0:   biencoder_projection_dim ........................ 0
+ 0:   biencoder_shared_query_context_model ............ False
+ 0:   block_data_path ................................. None
+ 0:   cache_mla_latents ............................... False
+ 0:   calc_ft_timeouts ................................ False
+ 0:   calculate_per_token_loss ........................ False
+ 0:   check_for_large_grads ........................... False
+ 0:   check_for_nan_in_loss_and_grad .................. True
+ 0:   check_for_spiky_loss ............................ False
+ 0:   check_weight_hash_across_dp_replicas_interval ... None
+ 0:   ckpt_assume_constant_structure .................. False
+ 0:   ckpt_convert_format ............................. None
+ 0:   ckpt_convert_save ............................... None
+ 0:   ckpt_convert_update_legacy_dist_opt_format ...... False
+ 0:   ckpt_format ..................................... torch
+ 0:   ckpt_fully_parallel_load ........................ False
+ 0:   ckpt_fully_parallel_save ........................ True
+ 0:   ckpt_fully_parallel_save_deprecated ............. False
+ 0:   ckpt_step ....................................... None
+ 0:   classes_fraction ................................ 1.0
+ 0:   clip_grad ....................................... 1.0
+ 0:   clone_scatter_output_in_embedding ............... True
+ 0:   config_logger_dir ............................... 
+ 0:   consumed_train_samples .......................... 0
+ 0:   consumed_valid_samples .......................... 0
+ 0:   context_parallel_size ........................... 1
+ 0:   cp_comm_type .................................... ['p2p']
+ 0:   create_attention_mask_in_dataloader ............. True
+ 0:   cross_entropy_fusion_impl ....................... native
+ 0:   cross_entropy_loss_fusion ....................... False
+ 0:   cuda_graph_impl ................................. none
+ 0:   cuda_graph_scope ................................ []
+ 0:   cuda_graph_warmup_steps ......................... 3
+ 0:   data_args_path .................................. None
+ 0:   data_cache_path ................................. /cache
+ 0:   data_parallel_random_init ....................... False
+ 0:   data_parallel_sharding_strategy ................. no_shard
+ 0:   data_parallel_size .............................. 4
+ 0:   data_path ....................................... ['/data/FW/fineweb-10BT_text_document']
+ 0:   data_per_class_fraction ......................... 1.0
+ 0:   data_sharding ................................... True
+ 0:   dataloader_type ................................. cyclic
+ 0:   ddp_average_in_collective ....................... False
+ 0:   ddp_bucket_size ................................. None
+ 0:   ddp_num_buckets ................................. None
+ 9: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 9: 
+ 0:   ddp_pad_buckets_for_high_nccl_busbw ............. False
+ 0:   decode_only_cuda_graphs ......................... False
+ 0:   decoder_first_pipeline_num_layers ............... None
+10: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0:   decoder_last_pipeline_num_layers ................ None
+ 0:   decoder_num_layers .............................. None
+ 0:   decoder_seq_length .............................. None
+ 0:   decoupled_lr .................................... None
+ 0:   decoupled_min_lr ................................ None
+ 0:   decrease_batch_size_if_needed ................... False
+ 0:   defer_embedding_wgrad_compute ................... False
+ 0:   delay_wgrad_compute ............................. False
+ 0:   deprecated_use_mcore_models ..................... True
+ 0:   deterministic_mode .............................. False
+ 0:   dino_bottleneck_size ............................ 256
+10: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+10: 
+ 0:   dino_freeze_last_layer .......................... 1
+ 0:   dino_head_hidden_size ........................... 2048
+ 0:   dino_local_crops_number ......................... 10
+ 0:   dino_local_img_size ............................. 96
+ 0:   dino_norm_last_layer ............................ False
+ 0:   dino_teacher_temp ............................... 0.07
+ 0:   dino_warmup_teacher_temp ........................ 0.04
+ 0:   dino_warmup_teacher_temp_epochs ................. 30
+ 0:   disable_bf16_reduced_precision_matmul ........... False
+ 0:   disable_chunked_prefill ......................... False
+ 0:   disable_jit_fuser ............................... False
+ 0:   disable_mamba_mem_eff_path ...................... False
+ 0:   disable_straggler_on_startup .................... False
+ 0:   disable_symmetric_registration .................. False
+ 0:   dist_ckpt_format_deprecated ..................... None
+ 0:   dist_ckpt_optim_fully_reshardable ............... False
+ 0:   dist_ckpt_save_pre_mcore_014 .................... False
+ 0:   dist_ckpt_strictness ............................ assume_ok_unexpected
+ 0:   distrib_optim_fully_reshardable_mem_efficient ... False
+ 0:   distribute_saved_activations .................... False
+ 0:   distributed_backend ............................. nccl
+ 0:   distributed_timeout_minutes ..................... 60
+ 0:   distributed_timeout_seconds_after_init .......... None
+ 0:   dump_param_to_param_group_map ................... None
+ 0:   embedding_init_method_std ....................... None
+ 0:   embedding_path .................................. None
+ 0:   empty_unused_memory_level ....................... 0
+ 0:   enable_cuda_graph ............................... False
+ 0:   enable_experimental ............................. False
+ 0:   enable_ft_package ............................... False
+ 0:   enable_full_sharding_in_hsdp .................... False
+ 0:   enable_gloo_process_groups ...................... True
+ 0:   enable_msc ...................................... True
+ 0:   enable_one_logger ............................... True
+ 0:   encoder_num_layers .............................. 32
+ 0:   encoder_seq_length .............................. 4096
+ 0:   end_weight_decay ................................ 0.1
+ 0:   eod_mask_loss ................................... False
+ 0:   error_injection_rate ............................ 0
+ 0:   error_injection_type ............................ transient_error
+ 0:   eval_interval ................................... 5000
+ 0:   eval_iters ...................................... 10
+ 0:   evidence_data_path .............................. None
+ 0:   exit_duration_in_mins ........................... None
+ 0:   exit_interval ................................... None
+ 0:   exit_on_missing_checkpoint ...................... False
+ 0:   exit_signal_handler ............................. False
+ 9: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0:   exp_avg_dtype ................................... torch.float32
+ 0:   exp_avg_sq_dtype ................................ torch.float32
+ 0:   expert_model_parallel_size ...................... 4
+ 0:   expert_tensor_parallel_size ..................... 1
+ 0:   export_force_local_attention .................... False
+ 0:   export_kd_cfg ................................... None
+ 0:   export_kd_teacher_ckpt_format ................... None
+ 0:   export_kd_teacher_load .......................... None
+ 0:   export_kv_cache_quant ........................... False
+ 0:   export_legacy_megatron .......................... False
+ 0:   export_model_type ............................... GPTModel
+ 9: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0:   export_moe_apply_probs_on_input ................. False
+ 0:   export_offline_model ............................ False
+ 0:   export_qk_l2_norm ............................... False
+ 0:   export_quant_cfg ................................ None
+ 0:   export_real_quant_cfg ........................... None
+10: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+ 0:   export_te_mcore_model ........................... False
+ 0:   external_cuda_graph ............................. False
+ 0:   ffn_hidden_size ................................. 14336
+ 0:   fine_grained_activation_offloading .............. False
+ 0:   finetune ........................................ False
+ 0:   finetune_data_split ............................. train
+ 0:   finetune_hf_dataset ............................. None
+ 0:   first_last_layers_bf16 .......................... False
+ 0:   flash_decode .................................... False
+ 0:   fp16 ............................................ False
+ 0:   fp16_lm_cross_entropy ........................... False
+ 0:   fp32_residual_connection ........................ False
+ 0:   fp4 ............................................. None
+ 0:   fp4_param ....................................... False
+ 0:   fp4_recipe ...................................... nvfp4
+ 0:   fp8 ............................................. None
+ 0:   fp8_amax_compute_algo ........................... most_recent
+ 0:   fp8_amax_history_len ............................ 1
+ 0:   fp8_interval .................................... 1
+ 0:   fp8_margin ...................................... 0
+ 0:   fp8_param_gather ................................ False
+ 0:   fp8_recipe ...................................... delayed
+ 0:   fp8_wgrad ....................................... True
+ 0:   fsdp_double_buffer .............................. False
+ 0:   full_validation ................................. False
+ 0:   global_batch_size ............................... 256
+ 0:   glu_linear_offset ............................... 0.0
+ 0:   grad_reduce_in_bf16 ............................. False
+ 0:   gradient_accumulation_fusion .................... True
+ 0:   gradient_reduce_div_fusion ...................... True
+ 0:   group_query_attention ........................... True
+ 0:   grpo_clamp_eps_lower ............................ 0.01
+ 0:   grpo_clamp_eps_upper ............................ 0.01
+ 0:   grpo_default_temperature ........................ 1.0
+ 0:   grpo_default_top_p .............................. 0
+ 0:   grpo_entropy_term_weight ........................ 0.0
+ 0:   grpo_filter_groups_with_same_reward ............. False
+ 0:   grpo_group_size ................................. 2
+ 0:   grpo_iterations ................................. 2
+ 0:   grpo_kl_beta .................................... 0.001
+ 0:   grpo_prompts_per_step ........................... 32
+ 0:   head_lr_mult .................................... 1.0
+ 0:   heterogeneous_layers_config_encoded_json ........ None
+ 0:   heterogeneous_layers_config_path ................ None
+ 0:   hidden_dropout .................................. 0.0
+ 0:   hidden_size ..................................... 4096
+ 0:   hierarchical_context_parallel_sizes ............. None
+ 0:   high_priority_stream_groups ..................... []
+ 0:   hybrid_attention_ratio .......................... 0.0
+ 0:   hybrid_mlp_ratio ................................ 0.0
+ 0:   hybrid_override_pattern ......................... None
+ 0:   hysteresis ...................................... 2
+ 0:   ict_head_size ................................... None
+ 0:   ict_load ........................................ None
+ 0:   img_h ........................................... 224
+ 0:   img_w ........................................... 224
+ 0:   indexer_batch_size .............................. 128
+ 0:   indexer_log_interval ............................ 1000
+ 0:   inference_batch_times_seqlen_threshold .......... -1
+ 0:   inference_dynamic_batching ...................... False
+ 0:   inference_dynamic_batching_block_size ........... 256
+ 0:   inference_dynamic_batching_buffer_guaranteed_fraction  0.2
+ 0:   inference_dynamic_batching_buffer_overflow_factor  None
+ 0:   inference_dynamic_batching_buffer_size_gb ....... 40.0
+ 0:   inference_dynamic_batching_max_requests_override  None
+ 0:   inference_dynamic_batching_max_tokens_override .. None
+ 0:   inference_dynamic_batching_num_cuda_graphs ...... 16
+ 0:   inference_dynamic_batching_track_paused_request_events  False
+ 0:   inference_dynamic_batching_unified_memory_level . 0
+ 0:   inference_max_batch_size ........................ 8
+ 0:   inference_max_seq_length ........................ 2560
+ 0:   inference_rng_tracker ........................... False
+ 0:   init_method_std ................................. 0.008
+ 0:   init_method_xavier_uniform ...................... False
+ 0:   init_model_with_meta_device ..................... False
+ 0:   initial_loss_scale .............................. 4294967296
+ 0:   inprocess_active_world_size ..................... 64
+ 0:   inprocess_barrier_timeout ....................... 120
+ 0:   inprocess_completion_timeout .................... 120
+ 0:   inprocess_empty_cuda_cache ...................... False
+ 0:   inprocess_granularity ........................... node
+ 0:   inprocess_hard_timeout .......................... 90
+ 0:   inprocess_heartbeat_interval .................... 30
+ 0:   inprocess_heartbeat_timeout ..................... 60
+ 0:   inprocess_last_call_wait ........................ 1
+ 0:   inprocess_max_iterations ........................ None
+ 0:   inprocess_monitor_process_interval .............. 1.0
+ 0:   inprocess_monitor_thread_interval ............... 1.0
+ 0:   inprocess_progress_watchdog_interval ............ 1.0
+ 0:   inprocess_restart ............................... False
+ 0:   inprocess_soft_timeout .......................... 60
+ 0:   inprocess_termination_grace_time ................ 1
+ 0:   is_hybrid_model ................................. False
+ 0:   iter_per_epoch .................................. 1250
+ 0:   iterations_to_skip .............................. []
+ 0:   keep_fp8_transpose_cache ........................ False
+ 0:   kitchen_config_file ............................. None
+ 0:   kitchen_recipe_number ........................... None
+ 0:   kv_channels ..................................... 128
+ 0:   kv_lora_rank .................................... 32
+ 0:   langrl_env_config ............................... None
+ 0:   langrl_external_server .......................... False
+ 0:   langrl_inference_server_conversation_template ... None
+ 0:   langrl_inference_server_type .................... inplace_megatron
+ 0:   lazy_mpu_init ................................... None
+ 0:   legacy_tokenizer ................................ False
+ 0:   linear_attention_freq ........................... None
+ 0:   linear_attention_type ........................... None
+ 0:   linear_conv_kernel_dim .......................... 4
+ 0:   linear_key_head_dim ............................. 128
+ 0:   linear_num_key_heads ............................ 16
+ 0:   linear_num_value_heads .......................... 32
+ 0:   linear_value_head_dim ........................... 128
+ 0:   load ............................................ None
+ 0:   load_main_params_from_ckpt ...................... None
+ 0:   local_rank ...................................... 0
+ 0:   log_energy ...................................... False
+ 0:   log_interval .................................... 1
+ 0:   log_loss_scale_to_tensorboard ................... True
+ 0:   log_max_attention_logit ......................... False
+ 0:   log_memory_to_tensorboard ....................... False
+ 0:   log_num_zeros_in_grad ........................... False
+ 0:   log_params_norm ................................. False
+ 0:   log_progress .................................... False
+ 0:   log_straggler ................................... False
+ 0:   log_throughput .................................. True
+ 0:   log_timers_to_tensorboard ....................... False
+ 0:   log_validation_ppl_to_tensorboard ............... True
+ 0:   log_world_size_to_tensorboard ................... False
+ 0:   logging_level ................................... None
+ 0:   loss_scale ...................................... None
+ 0:   loss_scale_window ............................... 1000
+ 0:   lr .............................................. 1.2e-05
+ 0:   lr_decay_iters .................................. None
+ 0:   lr_decay_samples ................................ 2560
+ 0:   lr_decay_style .................................. cosine
+ 0:   lr_warmup_fraction .............................. None
+ 0:   lr_warmup_init .................................. 0.0
+ 0:   lr_warmup_iters ................................. 0
+ 0:   lr_warmup_samples ............................... 0
+ 0:   lr_wsd_decay_iters .............................. None
+ 0:   lr_wsd_decay_samples ............................ None
+ 0:   lr_wsd_decay_style .............................. exponential
+ 0:   main_grads_dtype ................................ torch.float32
+ 0:   main_params_dtype ............................... torch.float32
+ 0:   make_vocab_size_divisible_by .................... 128
+ 0:   mamba_head_dim .................................. 64
+ 0:   mamba_num_groups ................................ 8
+ 0:   mamba_num_heads ................................. None
+ 0:   mamba_state_dim ................................. 128
+ 0:   manual_gc ....................................... False
+ 0:   manual_gc_eval .................................. True
+ 0:   manual_gc_interval .............................. 0
+ 0:   mask_factor ..................................... 1.0
+ 0:   mask_prob ....................................... 0.15
+ 0:   mask_type ....................................... random
+ 0:   masked_softmax_fusion ........................... True
+ 0:   max_position_embeddings ......................... 4096
+ 0:   max_tokens_to_oom ............................... 12000
+ 0:   memory_snapshot_path ............................ snapshot.pickle
+ 0:   merge_file ...................................... None
+ 0:   micro_batch_size ................................ 2
+ 0:   microbatch_group_size_per_vp_stage .............. None
+ 0:   mid_level_dataset_surplus ....................... 0.005
+ 0:   min_loss_scale .................................. 1.0
+ 0:   min_lr .......................................... 1.2e-06
+ 0:   min_offloaded_tensor_size ....................... 1048576
+ 0:   mlp_chunks_for_prefill .......................... 1
+ 0:   mmap_bin_files .................................. False
+ 0:   mock_data ....................................... False
+ 0:   modelopt_enabled ................................ False
+ 0:   moe_apply_probs_on_input ........................ False
+ 0:   moe_aux_loss_coeff .............................. 0.01
+ 0:   moe_deepep_num_sms .............................. 20
+ 0:   moe_enable_deepep ............................... False
+ 0:   moe_expert_capacity_factor ...................... None
+ 0:   moe_extended_tp ................................. False
+ 0:   moe_ffn_hidden_size ............................. 14336
+ 0:   moe_flex_dispatcher_backend ..................... deepep
+ 0:   moe_grouped_gemm ................................ True
+ 0:   moe_hybridep_num_sms ............................ 16
+ 0:   moe_input_jitter_eps ............................ None
+ 0:   moe_layer_freq .................................. 1
+ 0:   moe_layer_recompute ............................. True
+ 0:   moe_pad_expert_input_to_capacity ................ False
+ 0:   moe_pad_experts_for_cuda_graph_inference ........ False
+ 0:   moe_per_layer_logging ........................... False
+ 0:   moe_permute_fusion .............................. False
+ 0:   moe_router_bias_update_rate ..................... 0.001
+ 0:   moe_router_dtype ................................ None
+ 0:   moe_router_enable_expert_bias ................... False
+ 0:   moe_router_force_load_balancing ................. False
+ 0:   moe_router_fusion ............................... False
+ 0:   moe_router_group_topk ........................... None
+ 0:   moe_router_load_balancing_type .................. aux_loss
+ 0:   moe_router_num_groups ........................... None
+ 0:   moe_router_padding_for_fp8 ...................... False
+ 0:   moe_router_padding_for_quantization ............. False
+ 0:   moe_router_pre_softmax .......................... False
+ 0:   moe_router_score_function ....................... softmax
+ 0:   moe_router_topk ................................. 2
+ 0:   moe_router_topk_scaling_factor .................. None
+ 0:   moe_shared_expert_gate .......................... False
+ 0:   moe_shared_expert_intermediate_size ............. None
+ 0:   moe_shared_expert_overlap ....................... False
+ 0:   moe_token_dispatcher_type ....................... alltoall
+ 0:   moe_token_drop_policy ........................... probs
+ 0:   moe_upcycling_granularity ....................... 1
+ 0:   moe_use_legacy_grouped_gemm ..................... False
+ 0:   moe_use_upcycling ............................... False
+ 0:   moe_z_loss_coeff ................................ None
+ 0:   mrope_section ................................... None
+ 0:   mscale .......................................... 1.0
+ 0:   mscale_all_dim .................................. 0.0
+ 0:   mtp_loss_scaling_factor ......................... 0.1
+ 0:   mtp_num_layers .................................. None
+ 0:   multi_latent_attention .......................... False
+ 0:   multiple_validation_sets ........................ False
+ 0:   muon_extra_scale_factor ......................... 1.0
+ 0:   muon_fp32_matmul_prec ........................... medium
+ 0:   muon_momentum ................................... 0.95
+ 0:   muon_num_ns_steps ............................... 5
+ 0:   muon_scale_mode ................................. spectral
+ 0:   muon_tp_mode .................................... blockwise
+ 0:   muon_use_nesterov ............................... True
+ 0:   nccl_all_reduce_for_prefill ..................... False
+ 0:   nccl_communicator_config_path ................... None
+ 0:   nccl_ub ......................................... False
+ 0:   no_load_optim ................................... None
+ 0:   no_load_rng ..................................... None
+ 0:   no_persist_layer_norm ........................... False
+ 0:   no_rope_freq .................................... None
+ 0:   no_save_optim ................................... None
+ 0:   no_save_rng ..................................... None
+ 0:   no_weight_decay_cond_type ....................... None
+ 0:   non_persistent_ckpt_type ........................ None
+ 0:   non_persistent_global_ckpt_dir .................. None
+ 0:   non_persistent_local_ckpt_algo .................. fully_parallel
+ 0:   non_persistent_local_ckpt_dir ................... None
+ 0:   non_persistent_save_interval .................... None
+ 0:   norm_epsilon .................................... 1e-05
+ 0:   normalization ................................... RMSNorm
+ 0:   num_attention_heads ............................. 32
+ 0:   num_channels .................................... 3
+ 0:   num_classes ..................................... 1000
+ 0:   num_dataset_builder_threads ..................... 1
+ 0:   num_distributed_optimizer_instances ............. 1
+ 0:   num_experts ..................................... 8
+ 0:   num_layers ...................................... 32
+ 0:   num_layers_at_end_in_bf16 ....................... 1
+ 0:   num_layers_at_start_in_bf16 ..................... 1
+ 0:   num_layers_per_virtual_pipeline_stage ........... None
+ 0:   num_query_groups ................................ 8
+ 0:   num_virtual_stages_per_pipeline_rank ............ None
+ 0:   num_workers ..................................... 8
+ 0:   object_storage_cache_path ....................... None
+ 0:   offload_modules ................................. []
+ 0:   one_logger_async ................................ False
+ 0:   one_logger_project .............................. megatron-lm
+ 0:   one_logger_run_name ............................. None
+ 0:   onnx_safe ....................................... None
+ 0:   openai_gelu ..................................... False
+ 0:   optimizer ....................................... adam
+ 0:   optimizer_cpu_offload ........................... False
+ 0:   optimizer_offload_fraction ...................... 1.0
+ 0:   output_bert_embeddings .......................... False
+ 0:   overlap_cpu_optimizer_d2h_h2d ................... False
+ 0:   overlap_grad_reduce ............................. True
+ 0:   overlap_moe_expert_parallel_comm ................ False
+ 0:   overlap_p2p_comm ................................ False
+ 0:   overlap_p2p_comm_warmup_flush ................... False
+ 0:   overlap_param_gather ............................ True
+ 0:   overlap_param_gather_with_optimizer_step ........ False
+ 0:   override_opt_param_scheduler .................... False
+ 0:   padded_vocab_size ............................... None
+ 0:   params_dtype .................................... torch.bfloat16
+ 0:   patch_dim ....................................... 16
+ 0:   per_split_data_args_path ........................ None
+ 0:   perform_initialization .......................... True
+ 0:   perform_rl_step ................................. False
+ 0:   pin_cpu_grads ................................... True
+ 0:   pin_cpu_params .................................. True
+ 0:   pipeline_model_parallel_comm_backend ............ None
+ 0:   pipeline_model_parallel_layout .................. None
+ 0:   pipeline_model_parallel_size .................... 4
+ 0:   position_embedding_type ......................... rope
+ 0:   pretrained_checkpoint ........................... None
+ 0:   profile ......................................... False
+ 0:   profile_ranks ................................... [0]
+ 0:   profile_step_end ................................ 12
+ 0:   profile_step_start .............................. 10
+ 0:   q_lora_rank ..................................... None
+ 0:   qk_clip ......................................... False
+ 0:   qk_clip_alpha ................................... 0.5
+ 0:   qk_clip_threshold ............................... 100
+ 0:   qk_head_dim ..................................... 128
+ 0:   qk_l2_norm ...................................... False
+ 0:   qk_layernorm .................................... False
+ 0:   qk_pos_emb_head_dim ............................. 64
+ 0:   query_in_block_prob ............................. 0.1
+ 0:   quick_geglu ..................................... False
+ 0:   rampup_batch_size ............................... None
+ 0:   rank ............................................ 0
+ 0:   recompute_granularity ........................... None
+ 0:   recompute_method ................................ None
+ 0:   recompute_modules ............................... None
+ 0:   recompute_num_layers ............................ None
+ 0:   record_memory_history ........................... False
+ 0:   relative_attention_max_distance ................. 128
+ 0:   relative_attention_num_buckets .................. 32
+ 0:   replication ..................................... False
+ 0:   replication_factor .............................. 2
+ 0:   replication_jump ................................ None
+ 0:   rerun_mode ...................................... validate_results
+ 0:   reset_attention_mask ............................ False
+ 0:   reset_position_ids .............................. False
+ 0:   result_rejected_tracker_filename ................ None
+ 0:   retriever_report_topk_accuracies ................ []
+ 0:   retriever_score_scaling ......................... False
+ 0:   retriever_seq_length ............................ 256
+ 0:   retro_add_retriever ............................. False
+ 0:   retro_attention_gate ............................ 1
+ 0:   retro_cyclic_train_iters ........................ None
+ 0:   retro_encoder_attention_dropout ................. 0.1
+ 0:   retro_encoder_hidden_dropout .................... 0.1
+ 0:   retro_encoder_layers ............................ 2
+ 0:   retro_num_neighbors ............................. 2
+ 0:   retro_num_retrieved_chunks ...................... 2
+ 0:   retro_project_dir ............................... None
+ 0:   retro_verify_neighbor_count ..................... True
+ 0:   reuse_grad_buf_for_mxfp8_param_ag ............... False
+ 0:   rl_calculate_intra_group_similarity ............. False
+ 0:   rl_importance_sampling_truncation_coef .......... None
+ 0:   rl_inference_logprobs_is_correction ............. False
+ 0:   rl_offload_kv_cache_during_training ............. False
+ 0:   rl_offload_optimizer_during_inference ........... False
+ 0:   rl_partial_rollouts ............................. False
+ 0:   rl_prompts_per_eval ............................. 32
+ 0:   rl_remove_kv_cache_during_training .............. False
+ 0:   rl_reset_cuda_graphs ............................ False
+ 0:   rl_sequence_packing_algo ........................ fifo
+ 0:   rl_sequence_packing_bin_size .................... 8192
+ 0:   rl_use_sequence_packing ......................... False
+ 0:   rope_scaling_factor ............................. 8.0
+ 0:   rope_type ....................................... None
+ 0:   rotary_base ..................................... 10000
+ 0:   rotary_interleaved .............................. False
+ 0:   rotary_percent .................................. 1.0
+ 0:   rotary_scaling_factor ........................... 1.0
+ 0:   rotary_seq_len_interpolation_factor ............. None
+ 0:   run_workload_inspector_server ................... False
+ 0:   sample_rate ..................................... 1.0
+ 0:   save ............................................ None
+ 0:   save_interval ................................... None
+ 0:   save_retain_interval ............................ None
+ 0:   scatter_gather_tensors_in_pipeline .............. True
+ 0:   seed ............................................ 1234
+ 0:   seq_length ...................................... 4096
+ 0:   sequence_parallel ............................... True
+ 0:   sft ............................................. False
+ 0:   sft_tokenizer_prompt_format ..................... nemotron-h-aligned
+ 0:   sgd_momentum .................................... 0.9
+ 0:   sharp_enabled_group ............................. None
+ 0:   short_seq_prob .................................. 0.1
+ 0:   skip_train ...................................... False
+ 0:   skipped_train_samples ........................... 0
+ 0:   softmax_type .................................... vanilla
+ 0:   spec ............................................ None
+ 0:   split ........................................... 99,1,0
+ 0:   squared_relu .................................... False
+ 0:   start_weight_decay .............................. 0.1
+ 0:   straggler_ctrlr_port ............................ 65535
+ 0:   straggler_minmax_count .......................... 1
+ 0:   strict_fsdp_dtensor_load ........................ True
+ 0:   suggested_communication_unit_size ............... None
+ 0:   swiglu .......................................... True
+ 0:   swin_backbone_type .............................. tiny
+ 0:   symmetric_ar_type ............................... None
+ 0:   te_rng_tracker .................................. False
+ 0:   teacher_model_config ............................ None
+ 0:   tensor_model_parallel_size ...................... 4
+ 0:   tensorboard_dir ................................. None
+ 0:   tensorboard_log_interval ........................ 1
+ 0:   tensorboard_queue_size .......................... 1000
+ 0:   test_data_path .................................. None
+ 0:   test_mode ....................................... False
+ 0:   tiktoken_num_special_tokens ..................... 1000
+ 0:   tiktoken_pattern ................................ None
+ 0:   tiktoken_special_tokens ......................... None
+ 0:   timing_log_level ................................ 0
+ 0:   timing_log_option ............................... minmax
+ 0:   titles_data_path ................................ None
+ 0:   tokenizer_metadata .............................. None
+ 0:   tokenizer_model ................................. /tokenizer/
+ 0:   tokenizer_type .................................. HuggingFaceTokenizer
+ 0:   torch_fsdp2_reshard_after_forward ............... True
+ 0:   tp_comm_bootstrap_backend ....................... nccl
+ 0:   tp_comm_bulk_dgrad .............................. True
+ 0:   tp_comm_bulk_wgrad .............................. True
+ 0:   tp_comm_overlap ................................. False
+ 0:   tp_comm_overlap_ag .............................. True
+ 0:   tp_comm_overlap_cfg ............................. None
+ 0:   tp_comm_overlap_rs .............................. True
+ 0:   tp_comm_overlap_rs_dgrad ........................ False
+ 0:   tp_comm_split_ag ................................ True
+ 0:   tp_comm_split_rs ................................ True
+ 0:   train_data_path ................................. None
+ 0:   train_iters ..................................... None
+ 0:   train_samples ................................... 2560
+ 0:   train_sync_interval ............................. None
+ 0:   transformer_impl ................................ transformer_engine
+ 0:   transformer_pipeline_model_parallel_size ........ 4
+ 0:   trust_remote_code ............................... False
+ 0:   untie_embeddings_and_output_weights ............. True
+ 0:   use_checkpoint_args ............................. False
+ 0:   use_checkpoint_opt_param_scheduler .............. False
+ 0:   use_cpu_initialization .......................... None
+ 0:   use_dist_ckpt ................................... False
+ 0:   use_dist_ckpt_deprecated ........................ False
+ 0:   use_distributed_optimizer ....................... True
+ 0:   use_flash_attn .................................. True
+ 0:   use_fused_weighted_squared_relu ................. False
+ 0:   use_legacy_models ............................... False
+ 0:   use_megatron_fsdp ............................... False
+ 0:   use_mp_args_from_checkpoint_args ................ False
+ 0:   use_one_sent_docs ............................... False
+ 0:   use_persistent_ckpt_worker ...................... False
+ 0:   use_precision_aware_optimizer ................... False
+ 0:   use_pytorch_profiler ............................ False
+ 0:   use_ring_exchange_p2p ........................... False
+ 0:   use_rope_scaling ................................ False
+ 0:   use_rotary_position_embeddings .................. False
+ 0:   use_sharp ....................................... False
+ 0:   use_te_activation_func .......................... False
+ 0:   use_tokenizer_model_from_checkpoint_args ........ True
+ 0:   use_torch_fsdp2 ................................. False
+ 0:   use_torch_optimizer_for_cpu_offload ............. False
+ 0:   use_tp_pp_dp_mapping ............................ False
+ 0:   v_head_dim ...................................... 128
+ 0:   valid_data_path ................................. None
+ 0:   variable_seq_lengths ............................ False
+ 0:   virtual_pipeline_model_parallel_size ............ None
+ 0:   vision_backbone_type ............................ vit
+ 0:   vision_pretraining .............................. False
+ 0:   vision_pretraining_type ......................... classify
+ 0:   vocab_extra_ids ................................. 0
+ 0:   vocab_file ...................................... None
+ 0:   vocab_size ...................................... None
+ 0:   wandb_entity .................................... 
+ 0:   wandb_exp_name .................................. 
+ 0:   wandb_project ................................... 
+ 0:   wandb_save_dir .................................. 
+ 0:   weight_decay .................................... 0.1
+ 0:   weight_decay_incr_style ......................... constant
+ 0:   wgrad_deferral_limit ............................ 0
+ 0:   window_attn_skip_freq ........................... None
+ 0:   window_size ..................................... None
+ 0:   world_size ...................................... 64
+ 0:   yaml_cfg ........................................ None
+ 0: -------------------- end of arguments ---------------------
+ 0: INFO:megatron.core.num_microbatches_calculator:setting number of microbatches to constant 32
+ 0: > building HuggingFaceTokenizer tokenizer ...
+15: WARNING: one_logger package is required to enable e2e metrics tracking. please go to https://confluence.nvidia.com/display/MLWFO/Package+Repositories for details to install it
+ 0:  > padded vocab (size: 262145) with 511 dummy tokens (new size: 262656)
+ 0: WARNING:megatron.core.rerun_state_machine:RerunStateMachine initialized in mode RerunMode.VALIDATE_RESULTS
+ 0: > initializing torch distributed ...
+ 0: [Gloo] Rank [Gloo] Rank [Gloo] Rank 0 is connected to 300 peer ranks.  is connected to  is connected to Expected number of connected peer ranks is : 333 peer ranks.  peer ranks. Expected number of connected peer ranks is : Expected number of connected peer ranks is : 33
+ 0: 
+ 0: 
+ 3: [Gloo] Rank [Gloo] Rank 3[Gloo] Rank  is connected to 33 is connected to 3 peer ranks. 3 is connected to Expected number of connected peer ranks is :  peer ranks. 33Expected number of connected peer ranks is :  peer ranks. 3
+ 3: Expected number of connected peer ranks is : 3
+ 3: 
+ 2: [Gloo] Rank [Gloo] Rank 22[Gloo] Rank  is connected to  is connected to 332 peer ranks.  peer ranks.  is connected to Expected number of connected peer ranks is : Expected number of connected peer ranks is : 333 peer ranks. 
+ 2: Expected number of connected peer ranks is : 
+ 2: 3
+ 1: [Gloo] Rank [Gloo] Rank 1[Gloo] Rank 1 is connected to  is connected to 313 peer ranks.  is connected to  peer ranks. Expected number of connected peer ranks is : 3Expected number of connected peer ranks is : 3 peer ranks. 3
+ 1: Expected number of connected peer ranks is : 
+ 1: 3
+ 9: [Gloo] Rank 1 is connected to [Gloo] Rank 3[Gloo] Rank  peer ranks. [Gloo] Rank 1Expected number of connected peer ranks is : 11 is connected to  is connected to 33 is connected to 3 peer ranks. 3
+11: [Gloo] Rank [Gloo] Rank 3[Gloo] Rank  is connected to [Gloo] Rank 333 peer ranks.  is connected to 3Expected number of connected peer ranks is :  is connected to  is connected to 3333 peer ranks.  peer ranks. Expected number of connected peer ranks is :  peer ranks. 3
+ 9:  peer ranks. Expected number of connected peer ranks is :  peer ranks. Expected number of connected peer ranks is : 3Expected number of connected peer ranks is : 33
+ 9: 
+ 9: 
+ 8: [Gloo] Rank [Gloo] Rank 0[Gloo] Rank  is connected to 03[Gloo] Rank 0 peer ranks.  is connected to  is connected to Expected number of connected peer ranks is : 0333 peer ranks.  is connected to  peer ranks. Expected number of connected peer ranks is : 
+ 8: 3Expected number of connected peer ranks is : 3 peer ranks. 3Expected number of connected peer ranks is : 
+ 8: 3
+ 8: 
+10: [Gloo] Rank [Gloo] Rank [Gloo] Rank 222 is connected to [Gloo] Rank  is connected to  is connected to 333 peer ranks.  peer ranks. 2Expected number of connected peer ranks is :  is connected to  peer ranks. Expected number of connected peer ranks is : 333Expected number of connected peer ranks is :  peer ranks. 3
+10: 
+10: Expected number of connected peer ranks is : 
+10: 3
+11: Expected number of connected peer ranks is : Expected number of connected peer ranks is : 
+11: 33
+11: 
+ 5: [Gloo] Rank [Gloo] Rank [Gloo] Rank 1 is connected to 113 is connected to  is connected to 3 peer ranks. 3 peer ranks. Expected number of connected peer ranks is :  peer ranks. 3Expected number of connected peer ranks is : Expected number of connected peer ranks is : 3
+ 5: 3
+ 5: 
+ 7: [Gloo] Rank [Gloo] Rank 3 is connected to 33 peer ranks.  is connected to Expected number of connected peer ranks is : 33 peer ranks. Expected number of connected peer ranks is : 3
+ 7: 
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank [Gloo] Rank 2[Gloo] Rank  is connected to 23 is connected to  peer ranks. 32Expected number of connected peer ranks is :  peer ranks.  is connected to Expected number of connected peer ranks is : 33 peer ranks. 3Expected number of connected peer ranks is : 
+ 6: 3
+ 6: 
+ 4: [Gloo] Rank [Gloo] Rank [Gloo] Rank 000 is connected to  is connected to 3 is connected to 3 peer ranks. 3 peer ranks. Expected number of connected peer ranks is :  peer ranks. Expected number of connected peer ranks is : 3Expected number of connected peer ranks is : 33
+ 4: 
+ 4: 
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: > initialized tensor model parallel with size 4
+ 0: > initialized pipeline model parallel with size 4
+ 0: > setting random seeds to 1234 ...
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+11: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 8: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+10: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 9: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank [Gloo] Rank 00 is connected to  is connected to 33 peer ranks.  peer ranks. Expected number of connected peer ranks is : Expected number of connected peer ranks is : 33
+ 4: 
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: > compiling dataset index builder ...
+ 0: make: Entering directory '/opt/megatron-lm/megatron/core/datasets'
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 3: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 1: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 2: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: make: Nothing to be done for 'default'.
+ 0: make: Leaving directory '/opt/megatron-lm/megatron/core/datasets'
+ 0: >>> done with dataset index builder. Compilation time: 0.030 seconds
+ 0: > compiling and loading fused kernels ...
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 7: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 4: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 6: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 5: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+13: INFO 02-18 17:39:10 [__init__.py:241] Automatically detected platform cuda.
+13: INFO 02-18 17:39:10 [__init__.py:241] Automatically detected platform cuda.
+13: INFO 02-18 17:39:10 [__init__.py:241] Automatically detected platform cuda.
+13: INFO 02-18 17:39:10 [__init__.py:241] Automatically detected platform cuda.
+13: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+13: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+13: 
+13: Warning: moe_ffn_hidden_size is not set, using ffn_hidden_size for MoE instead.
+12: [Gloo] Rank [Gloo] Rank 0 is connected to 30 peer ranks. [Gloo] Rank  is connected to [Gloo] Rank 3Expected number of connected peer ranks is : 03 peer ranks.  is connected to 0
+12: 3Expected number of connected peer ranks is :  peer ranks.  is connected to 3Expected number of connected peer ranks is : 33 peer ranks. 
+12: Expected number of connected peer ranks is : 3
+12: 
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : [Gloo] Rank 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. 2Expected number of connected peer ranks is :  is connected to 33 peer ranks. 
+14: Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank [Gloo] Rank [Gloo] Rank [Gloo] Rank 33 is connected to 333 is connected to  is connected to  is connected to  peer ranks. 3Expected number of connected peer ranks is : 33 peer ranks. 3 peer ranks.  peer ranks. Expected number of connected peer ranks is : Expected number of connected peer ranks is : 
+15: Expected number of connected peer ranks is : 333
+15: 
+15: 
+13: [Gloo] Rank [Gloo] Rank 11[Gloo] Rank [Gloo] Rank  is connected to  is connected to 1331 is connected to  peer ranks.  peer ranks.  is connected to 3Expected number of connected peer ranks is :  peer ranks. 3Expected number of connected peer ranks is : 33Expected number of connected peer ranks is : 
+13:  peer ranks. 3
+13: Expected number of connected peer ranks is : 3
+13: 
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank [Gloo] Rank 0 is connected to 03 is connected to  peer ranks. 3 peer ranks. Expected number of connected peer ranks is : Expected number of connected peer ranks is : 33
+12: 
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+12: [Gloo] Rank 0 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+13: [Gloo] Rank 1 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+15: [Gloo] Rank 3 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+14: [Gloo] Rank 2 is connected to 3 peer ranks. Expected number of connected peer ranks is : 3
+ 0: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 0: 
+ 0: 
+10: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+10: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+10: 
+10: 
+ 6: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 6: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 6: 
+ 6: 
+11: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+11: 
+11: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+11: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 9: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 9: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 9: 
+ 9: 
+ 3: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 3: 
+ 3: 
+ 3: 
+14: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+14: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+14: 
+14: 
+ 7: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 7: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 7: 
+ 5: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 7: 
+ 5: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 5: 
+ 5: 
+ 1: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 1: 
+ 1: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 1: 
+ 2: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 2: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 2: 
+ 2: 
+15: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+15: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+15: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+15: 
+12: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+12: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+12: 
+12: 
+ 4: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 8: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 4: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 4: 
+ 4: 
+ 8: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+ 8: 
+ 8: 
+13: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+13: Creation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failedCreation of the build directory /opt/megatron-lm/megatron/legacy/fused_kernels/build failed
+13: 
+13: 
+ 0: >>> done with compiling and loading fused kernels. Compilation time: 4.553 seconds
+ 0: time to initialize megatron (seconds): 6.818
+ 0: [after megatron is initialized] datetime: 2026-02-18 17:39:14 
+ 0: building GPT model ...
+ 0:  > number of parameters on (tensor, pipeline) model parallel rank (1, 0): 3171745792
+ 0:  > number of parameters on (tensor, pipeline) model parallel rank (0, 0): 3171745792
+ 0:  > number of parameters on (tensor, pipeline) model parallel rank (2, 0): 3171745792 > number of parameters on (tensor, pipeline) model parallel rank (3, 0): 3171745792
+ 0: 
+ 0: INFO:megatron.core.distributed.distributed_data_parallel:Setting up DistributedDataParallel with config DistributedDataParallelConfig(grad_reduce_in_fp32=True, overlap_grad_reduce=True, overlap_param_gather=True, align_param_gather=False, use_distributed_optimizer=True, num_distributed_optimizer_instances=1, check_for_nan_in_grad=True, check_for_large_grads=False, bucket_size=40000000, pad_buckets_for_high_nccl_busbw=False, average_in_collective=False, fp8_param_gather=False, reuse_grad_buf_for_mxfp8_param_ag=False, use_megatron_fsdp=False, use_custom_fsdp=False, data_parallel_sharding_strategy='no_shard', gradient_reduce_div_fusion=True, suggested_communication_unit_size=None, preserve_fp32_weights=True, keep_fp8_transpose_cache=False, nccl_ub=False, fsdp_double_buffer=False, outer_dp_sharding_strategy='no_shard', disable_symmetric_registration=False, delay_wgrad_compute=False)
+ 0: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 3
+ 0: Params for bucket 1 (42106880 elements, 42106880 padded size):
+ 0: 	module.decoder.layers.7.mlp.router.weight
+ 0: 	module.decoder.layers.6.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.4.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.4.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.4.mlp.router.weight
+ 0: 	module.decoder.layers.6.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.5.mlp.router.weight
+ 0: 	module.decoder.layers.5.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.6.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.6.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.5.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.4.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.7.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.6.mlp.router.weight
+ 0: 	module.decoder.layers.5.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.4.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.7.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.7.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.7.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.5.pre_mlp_layernorm.weight
+ 0: Params for bucket 2 (42106880 elements, 42106880 padded size):
+ 0: 	module.decoder.layers.1.mlp.router.weight
+ 0: 	module.decoder.layers.2.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.0.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.2.mlp.router.weight
+ 0: 	module.decoder.layers.0.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.3.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.3.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.0.mlp.router.weight
+ 0: 	module.decoder.layers.3.mlp.router.weight
+ 0: 	module.decoder.layers.2.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.2.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.1.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.1.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.3.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.1.self_attention.linear_qkv.layer_norm_weight
+ 0: 	module.decoder.layers.1.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.0.pre_mlp_layernorm.weight
+ 0: 	module.decoder.layers.0.self_attention.linear_qkv.weight
+ 0: 	module.decoder.layers.3.self_attention.linear_proj.weight
+ 0: 	module.decoder.layers.2.self_attention.linear_qkv.layer_norm_weight
+ 0: Params for bucket 3 (268959744 elements, 268959744 padded size):
+ 0: 	module.embedding.word_embeddings.weight
+ 0: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 32
+ 0: Params for bucket 1 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 2 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 3 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 4 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 5 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 6 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 7 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 8 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 9 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 10 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 11 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 12 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 13 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 14 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 15 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 16 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 17 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 18 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 19 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 20 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 21 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 22 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 23 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 24 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 25 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 26 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 27 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 28 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight0
+ 0: Params for bucket 29 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight1
+ 0: Params for bucket 30 (58720256 elements, 58720256 padded size):
+ 0: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight0
+ 0: Params for bucket 31 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight1
+ 0: Params for bucket 32 (117440512 elements, 117440512 padded size):
+ 0: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight0
+ 0: INFO:megatron.core.optimizer:Setting up optimizer with config OptimizerConfig(optimizer='adam', lr=1.2e-05, min_lr=1.2e-06, decoupled_lr=None, decoupled_min_lr=None, weight_decay=0.1, fp8_recipe='delayed', fp16=False, bf16=True, reuse_grad_buf_for_mxfp8_param_ag=False, params_dtype=torch.bfloat16, use_precision_aware_optimizer=False, store_param_remainders=True, main_grads_dtype=torch.float32, main_params_dtype=torch.float32, exp_avg_dtype=torch.float32, exp_avg_sq_dtype=torch.float32, loss_scale=None, initial_loss_scale=4294967296, min_loss_scale=1.0, loss_scale_window=1000, hysteresis=2, adam_beta1=0.9, adam_beta2=0.95, adam_eps=1e-08, decoupled_weight_decay=True, sgd_momentum=0.9, muon_momentum=0.95, muon_use_nesterov=True, muon_scale_mode='spectral', muon_fp32_matmul_prec='medium', muon_num_ns_steps=5, muon_tp_mode='blockwise', muon_extra_scale_factor=1.0, use_distributed_optimizer=True, overlap_param_gather=True, overlap_param_gather_with_optimizer_step=False, optimizer_cpu_offload=False, optimizer_offlo
+ 0: ad_fraction=1.0, use_torch_optimizer_for_cpu_offload=False, overlap_cpu_optimizer_d2h_h2d=False, pin_cpu_grads=True, pin_cpu_params=True, clip_grad=1.0, log_num_zeros_in_grad=False, barrier_with_L1_time=True, timers=<megatron.core.timers.Timers object at 0x14c890641040>, config_logger_dir='')
+12:  > number of parameters on (tensor, pipeline) model parallel rank (1, 3): 3171749888
+12:  > number of parameters on (tensor, pipeline) model parallel rank (0, 3): 3171749888
+12:  > number of parameters on (tensor, pipeline) model parallel rank (3, 3): 3171749888 > number of parameters on (tensor, pipeline) model parallel rank (2, 3): 3171749888
+12: 
+12: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+12: Params for bucket 1 (353177600 elements, 353177600 padded size):
+12: 	module.output_layer.weight
+12: 	module.decoder.layers.7.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.5.mlp.router.weight
+12: 	module.decoder.layers.5.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.0.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.7.self_attention.linear_proj.weight
+12: 	module.decoder.layers.5.self_attention.linear_proj.weight
+12: 	module.decoder.layers.4.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.2.self_attention.linear_proj.weight
+12: 	module.decoder.layers.6.self_attention.linear_proj.weight
+12: 	module.decoder.layers.5.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.4.self_attention.linear_proj.weight
+12: 	module.decoder.layers.2.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.2.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.1.self_attention.linear_proj.weight
+12: 	module.decoder.layers.0.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.0.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.7.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.5.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.3.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.3.self_attention.linear_proj.weight
+12: 	module.decoder.layers.2.mlp.router.weight
+12: 	module.decoder.layers.1.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.0.mlp.router.weight
+12: 	module.decoder.layers.6.pre_mlp_layernorm.weight
+12: 	module.decoder.layers.6.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.3.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.3.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.7.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.3.mlp.router.weight
+12: 	module.decoder.layers.1.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.7.mlp.router.weight
+12: 	module.decoder.final_layernorm.weight
+12: 	module.decoder.layers.6.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.4.self_attention.linear_qkv.weight
+12: 	module.decoder.layers.4.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.1.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.6.mlp.router.weight
+12: 	module.decoder.layers.4.mlp.router.weight
+12: 	module.decoder.layers.2.self_attention.linear_qkv.layer_norm_weight
+12: 	module.decoder.layers.1.mlp.router.weight
+12: 	module.decoder.layers.0.self_attention.linear_proj.weight
+ 4:  > number of parameters on (tensor, pipeline) model parallel rank (0, 1): 2902786048
+ 4:  > number of parameters on (tensor, pipeline) model parallel rank (2, 1): 2902786048
+ 8:  > number of parameters on (tensor, pipeline) model parallel rank (3, 2): 2902786048
+ 8:  > number of parameters on (tensor, pipeline) model parallel rank (1, 2): 2902786048
+ 8:  > number of parameters on (tensor, pipeline) model parallel rank (0, 2): 2902786048
+ 8:  > number of parameters on (tensor, pipeline) model parallel rank (2, 2): 2902786048
+ 4:  > number of parameters on (tensor, pipeline) model parallel rank (3, 1): 2902786048
+ 4:  > number of parameters on (tensor, pipeline) model parallel rank (1, 1): 2902786048
+12: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+12: Params for bucket 1 (2818572288 elements, 2818572288 padded size):
+12: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight1
+12: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight0
+12: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight1
+12: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight0
+12: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight1
+ 4: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+ 4: Params for bucket 1 (84213760 elements, 84213760 padded size):
+ 4: 	module.decoder.layers.7.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.3.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.1.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.0.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.7.mlp.router.weight
+ 4: 	module.decoder.layers.6.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.4.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.2.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.1.mlp.router.weight
+ 4: 	module.decoder.layers.6.mlp.router.weight
+ 4: 	module.decoder.layers.4.mlp.router.weight
+ 4: 	module.decoder.layers.3.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.1.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.7.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.5.mlp.router.weight
+ 4: 	module.decoder.layers.5.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.3.mlp.router.weight
+ 4: 	module.decoder.layers.2.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.0.mlp.router.weight
+ 4: 	module.decoder.layers.0.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.7.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.5.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.4.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.2.mlp.router.weight
+ 4: 	module.decoder.layers.0.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.6.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.5.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.4.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.3.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.1.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.7.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.5.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.3.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.2.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.6.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.6.self_attention.linear_qkv.layer_norm_weight
+ 4: 	module.decoder.layers.4.pre_mlp_layernorm.weight
+ 4: 	module.decoder.layers.2.self_attention.linear_proj.weight
+ 4: 	module.decoder.layers.1.self_attention.linear_qkv.weight
+ 4: 	module.decoder.layers.0.self_attention.linear_qkv.weight
+ 8: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+ 8: Params for bucket 1 (84213760 elements, 84213760 padded size):
+ 8: 	module.decoder.layers.7.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.3.mlp.router.weight
+ 8: 	module.decoder.layers.2.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.2.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.7.mlp.router.weight
+ 8: 	module.decoder.layers.6.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.4.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.4.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.2.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.1.mlp.router.weight
+ 8: 	module.decoder.layers.6.mlp.router.weight
+ 8: 	module.decoder.layers.4.mlp.router.weight
+ 8: 	module.decoder.layers.0.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.7.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.5.mlp.router.weight
+ 8: 	module.decoder.layers.5.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.3.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.1.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.0.mlp.router.weight
+ 8: 	module.decoder.layers.0.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.7.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.5.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.4.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.1.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.0.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.6.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.5.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.4.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.2.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.7.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.5.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.3.self_attention.linear_proj.weight
+ 8: 	module.decoder.layers.2.mlp.router.weight
+ 8: 	module.decoder.layers.1.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.6.pre_mlp_layernorm.weight
+ 8: 	module.decoder.layers.6.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.3.self_attention.linear_qkv.weight
+ 8: 	module.decoder.layers.3.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.1.self_attention.linear_qkv.layer_norm_weight
+ 8: 	module.decoder.layers.0.pre_mlp_layernorm.weight
+ 4: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+ 4: Params for bucket 1 (2818572288 elements, 2818572288 padded size):
+ 4: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight0
+ 4: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight1
+ 4: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight0
+ 4: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight1
+ 4: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight0
+ 8: INFO:megatron.core.distributed.param_and_grad_buffer:Number of buckets for gradient all-reduce / reduce-scatter: 1
+ 8: Params for bucket 1 (2818572288 elements, 2818572288 padded size):
+ 8: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.2.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.0.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.2.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.1.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.6.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.5.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.4.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.3.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.1.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.0.mlp.experts.linear_fc1.weight1
+ 8: 	module.decoder.layers.7.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.5.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.3.mlp.experts.linear_fc2.weight1
+ 8: 	module.decoder.layers.7.mlp.experts.linear_fc2.weight0
+ 8: 	module.decoder.layers.6.mlp.experts.linear_fc1.weight0
+ 8: 	module.decoder.layers.4.mlp.experts.linear_fc1.weight0
+ 0: setting training iterations to 10
+ 0: INFO:megatron.core.optimizer_param_scheduler:> learning rate decay style: cosine
+ 0: [after model, optimizer, and learning rate scheduler are built] datetime: 2026-02-18 17:39:14 
+ 0: > building train, validation, and test datasets ...
+ 0:     train:      2560
+ 0:     validation: 2560
+ 0:     test:       2560
+ 0: INFO:megatron.core.datasets.blended_megatron_dataset_config:Let split_matrix = [(0, 0.99), (0.99, 1.0), None]
+ 0: > building train, validation, and test datasets for GPT ...
+ 0: INFO:megatron.core.datasets.blended_megatron_dataset_builder:Building GPTDataset splits with sizes=(2560, 2560, 2560) and config=GPTDatasetConfig(random_seed=1234, sequence_length=4096, blend=(['/data/FW/fineweb-10BT_text_document'], None), blend_per_split=None, multiple_validation_sets=False, full_validation=False, split='99,1,0', split_matrix=[(0, 0.99), (0.99, 1.0), None], num_dataset_builder_threads=1, path_to_cache='/cache', mmap_bin_files=False, mock=False, tokenizer=<megatron.core.tokenizers.text.models.default_tokenizer.DefaultTokenizerText object at 0x14c892805700>, mid_level_dataset_surplus=0.005, allow_ambiguous_pad_tokens=False, reset_position_ids=False, reset_attention_mask=False, eod_mask_loss=False, create_attention_mask=True, drop_last_partial_validation_sequence=True, add_extra_token_to_sequence=True, object_storage_cache_path=None)
+ 0: INFO:megatron.core.datasets.indexed_dataset:Load the _IndexReader from /data/FW/fineweb-10BT_text_document.idx
+ 0: INFO:megatron.core.datasets.indexed_dataset:	Extract the sequence lengths
+ 0: INFO:megatron.core.datasets.indexed_dataset:	Extract the sequence pointers
+ 0: INFO:megatron.core.datasets.indexed_dataset:	Extract the document indices
+ 0: INFO:megatron.core.datasets.indexed_dataset:> total number of sequences: 14868862
+ 0: INFO:megatron.core.datasets.indexed_dataset:> total number of documents: 14868862
+ 0: INFO:megatron.core.datasets.gpt_dataset:Load the GPTDataset train indices
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the document index from bf1c757ad20dfe7c71e0fa7701491339-GPTDataset-train-document_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the sample index from bf1c757ad20dfe7c71e0fa7701491339-GPTDataset-train-sample_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the shuffle index from bf1c757ad20dfe7c71e0fa7701491339-GPTDataset-train-shuffle_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:> total number of samples: 2486528
+ 0: INFO:megatron.core.datasets.gpt_dataset:Load the GPTDataset valid indices
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the document index from 0b09617f499592c428c26e605d5ed15c-GPTDataset-valid-document_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the sample index from 0b09617f499592c428c26e605d5ed15c-GPTDataset-valid-sample_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:	Load the shuffle index from 0b09617f499592c428c26e605d5ed15c-GPTDataset-valid-shuffle_index.npy
+ 0: INFO:megatron.core.datasets.gpt_dataset:> total number of samples: 24785
+ 0: > finished creating GPT datasets ...
+ 0: [after dataloaders are built] datetime: 2026-02-18 17:39:16 
+ 0: done with setup ...
+ 0: training ...
+ 0: Overwriting rerun_state_machine.current_iteration from -1 to 0...
+15: (min, max) time across ranks (ms):
+15:     model-and-optimizer-setup ......................: (437.39, 439.35)
+15:     train/valid/test-data-iterators-setup ..........: (1943.97, 2037.86)
+ 0: [before the start of training step] datetime: 2026-02-18 17:39:16 
+ 0: WARNING:megatron.core.rerun_state_machine:Result validation enabled
+15:  [2026-02-18 17:39:44] iteration        1/      10 | consumed samples:          256 | elapsed time per iteration (ms): 27332.9 | throughput per GPU (TFLOP/s/GPU): 51.2 | learning rate: 1.173570E-05 | global batch size:   256 | lm loss: 1.262510E+01 | load_balancing_loss: 1.297755E+00 | loss scale: 1.0 | grad norm: 38.898 | number of skipped iterations:   0 | number of nan iterations:   0 |
+ 0: Number of parameters in transformer block in billions:  46.44
+ 0: Number of parameters in embedding layers in billions: 2.15
+ 0: Total number of parameters in billions: 48.59
+ 0: Number of parameters in most loaded shard in billions: 3.1715
+ 0: Number of parameters in other shards in billions: 2.9025
+ 0: compute_activation_memory_without_sp
+ 0: Activation memory footprint per transformer layer (precise, without SP): 512.0 MB
+ 0: Number of in-flight microbatches: 4
+ 0: Theoretical memory footprints: weight and optimizer=27220.79 MB, activation=17337.86 MB, total=44558.65 MB
+ 0: 
+ 8: [Rank 32] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 30522.0 | max reserved: 30522.0 | device usage: 36226.125[Rank 34] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 30536.0 | max reserved: 30536.0 | device usage: 36270.125[Rank 33] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 29948.0 | max reserved: 29948.0 | device usage: 35712.125[Rank 35] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 30512.0 | max reserved: 30512.0 | device usage: 35886.125
+ 4: [Rank 18] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 29520.0 | max reserved: 29520.0 | device usage: 35254.125[Rank 16] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25425.03857421875 | reserved: 29804.0 | max reserved: 29804.0 | device usage: 35508.125[Rank 19] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 29924.0 | max reserved: 29924.0 | device usage: 35298.125[Rank 17] (after 1 iterations) memory (MB) | allocated: 25246.19287109375 | max allocated: 25246.19384765625 | reserved: 29174.0 | max reserved: 29174.0 | device usage: 34938.125
+ 8: 
+ 8: 
+ 8: 
+ 0: [Rank 1] (after 1 iterations) memory (MB) | allocated: 27524.06787109375 | max allocated: 27524.06884765625 | reserved: 28776.0 | max reserved: 28776.0 | device usage: 34510.125[Rank 2] (after 1 iterations) memory (MB) | allocated: 27523.06787109375 | max allocated: 27523.06884765625 | reserved: 31190.0 | max reserved: 31190.0 | device usage: 36924.125[Rank 3] (after 1 iterations) memory (MB) | allocated: 27524.06787109375 | max allocated: 27846.14013671875 | reserved: 32480.0 | max reserved: 32480.0 | device usage: 37854.125
+ 0: 
+ 0: 
+12: [Rank 51] (after 1 iterations) memory (MB) | allocated: 28148.33056640625 | max allocated: 28148.345703125 | reserved: 32112.0 | max reserved: 32112.0 | device usage: 37504.125[Rank 49] (after 1 iterations) memory (MB) | allocated: 28148.33056640625 | max allocated: 28148.345703125 | reserved: 31562.0 | max reserved: 31562.0 | device usage: 37334.125[Rank 50] (after 1 iterations) memory (MB) | allocated: 28148.33056640625 | max allocated: 28148.345703125 | reserved: 32352.0 | max reserved: 32352.0 | device usage: 38104.125
+ 4: 
+ 4: 
+ 4: 
+12: 
+12: 
+12: [Rank 48] (after 1 iterations) memory (MB) | allocated: 28148.33056640625 | max allocated: 28148.345703125 | reserved: 32346.0 | max reserved: 32346.0 | device usage: 38040.125
+ 0: [Rank 0] (after 1 iterations) memory (MB) | allocated: 27523.06787109375 | max allocated: 27523.06884765625 | reserved: 31372.0 | max reserved: 31372.0 | device usage: 36988.125
+15:  [2026-02-18 17:40:11] iteration        2/      10 | consumed samples:          512 | elapsed time per iteration (ms): 26789.2 | throughput per GPU (TFLOP/s/GPU): 52.2 | learning rate: 1.096869E-05 | global batch size:   256 | lm loss: 1.159621E+01 | load_balancing_loss: 1.634040E+00 | loss scale: 1.0 | grad norm: 149.055 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:40:35] iteration        3/      10 | consumed samples:          768 | elapsed time per iteration (ms): 24347.9 | throughput per GPU (TFLOP/s/GPU): 57.5 | learning rate: 9.774040E-06 | global batch size:   256 | lm loss: 1.086725E+01 | load_balancing_loss: 1.517688E+00 | loss scale: 1.0 | grad norm: 33.800 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:41:00] iteration        4/      10 | consumed samples:         1024 | elapsed time per iteration (ms): 25105.8 | throughput per GPU (TFLOP/s/GPU): 55.7 | learning rate: 8.268692E-06 | global batch size:   256 | lm loss: 1.082290E+01 | load_balancing_loss: 1.396442E+00 | loss scale: 1.0 | grad norm: 11.388 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:41:24] iteration        5/      10 | consumed samples:         1280 | elapsed time per iteration (ms): 24233.0 | throughput per GPU (TFLOP/s/GPU): 57.7 | learning rate: 6.600000E-06 | global batch size:   256 | lm loss: 1.062998E+01 | load_balancing_loss: 1.410605E+00 | loss scale: 1.0 | grad norm: 10.220 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:41:48] iteration        6/      10 | consumed samples:         1536 | elapsed time per iteration (ms): 23424.3 | throughput per GPU (TFLOP/s/GPU): 59.7 | learning rate: 4.931308E-06 | global batch size:   256 | lm loss: 1.049591E+01 | load_balancing_loss: 1.406156E+00 | loss scale: 1.0 | grad norm: 9.232 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:42:13] iteration        7/      10 | consumed samples:         1792 | elapsed time per iteration (ms): 24858.3 | throughput per GPU (TFLOP/s/GPU): 56.3 | learning rate: 3.425960E-06 | global batch size:   256 | lm loss: 1.027774E+01 | load_balancing_loss: 1.399297E+00 | loss scale: 1.0 | grad norm: 8.688 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:42:36] iteration        8/      10 | consumed samples:         2048 | elapsed time per iteration (ms): 23736.1 | throughput per GPU (TFLOP/s/GPU): 58.9 | learning rate: 2.231308E-06 | global batch size:   256 | lm loss: 1.016209E+01 | load_balancing_loss: 1.321976E+00 | loss scale: 1.0 | grad norm: 7.362 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:43:00] iteration        9/      10 | consumed samples:         2304 | elapsed time per iteration (ms): 23806.2 | throughput per GPU (TFLOP/s/GPU): 58.8 | learning rate: 1.464295E-06 | global batch size:   256 | lm loss: 1.010102E+01 | load_balancing_loss: 1.270592E+00 | loss scale: 1.0 | grad norm: 6.407 | number of skipped iterations:   0 | number of nan iterations:   0 |
+15:  [2026-02-18 17:43:25] iteration       10/      10 | consumed samples:         2560 | elapsed time per iteration (ms): 24767.2 | throughput per GPU (TFLOP/s/GPU): 56.5 | learning rate: 1.200000E-06 | global batch size:   256 | lm loss: 1.007064E+01 | load_balancing_loss: 1.223243E+00 | loss scale: 1.0 | grad norm: 5.728 | number of skipped iterations:   0 | number of nan iterations:   0 |
+ 0: [after training is done] datetime: 2026-02-18 17:43:26 
+ 0: WARNING:megatron.core.rerun_state_machine:Setting RerunStateMachine mode RerunMode.DISABLED
+ 0: Evaluating on 2560 samples
+ 0: Evaluating iter 1/10
+ 0: Evaluating iter 2/10
+ 0: Evaluating iter 3/10
+ 0: Evaluating iter 4/10
+ 0: Evaluating iter 5/10
+ 0: Evaluating iter 6/10
+ 0: Evaluating iter 7/10
+ 0: Evaluating iter 8/10
+ 0: Evaluating iter 9/10
+ 0: Evaluating iter 10/10
+15: (min, max) time across ranks (ms):
+15:     evaluate .......................................: (54047.60, 54576.12)
+15: ----------------------------------------------------------------------------------------------------------------
+15:  validation loss at iteration 10 on validation set | lm loss value: 1.004514E+01 | lm loss PPL: 2.304353E+04 | 
+15: ----------------------------------------------------------------------------------------------------------------
+ 0: WARNING:megatron.core.rerun_state_machine:Setting RerunStateMachine mode RerunMode.VALIDATE_RESULTS
+ 0: WARNING:megatron.core.rerun_state_machine:Setting RerunStateMachine mode RerunMode.VALIDATE_RESULTS
