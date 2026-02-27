@@ -98,12 +98,11 @@ With exactly 4 hours on the clock, trying to write everything together on one la
     * *Task:* Sets up the main Python script, loads the offline Qwen2.5-VL model, and writes the complex "Router" prompt. Manages the main `for` loop that iterates over the datasets and calls the tools created by the others.
 * **Member 2: Tool 1 - Retrieval**
     * *Task:* Takes ownership of EVQA. Writes the function to load the CSV/JSON data, maps the `dataset_image_id` to the Lens entities, and formats the retrieved text clearly for the prompt.
-* **Member 3: Tool 2 - Object Detection**
-    * *Task:* Takes ownership of Amber. Builds an independent Python function that runs the object detection, tunes the bounding box confidence thresholds, and returns the logical output (Yes/No or the coordinates).
-* **Member 4: Tool 3 - OCR**
-    * *Task:* Takes ownership of DocVQA. Sets up the offline OCR (e.g., EasyOCR), writes the function to extract the raw text from the image, and formats it cleanly to be appended to the prompt.
-* **Member 5: Integration & Evaluation**
-    * *Task:* The most critical role in the last hour. Sets up a shared GitHub repo (or Live Share), writes the function to dump the final predictions into the required JSON format, handles error catching (try/except blocks so the code doesn't crash halfway), and runs small local tests to ensure the assembled pipeline actually works.
+* **Member 3: Tool 2 & 3- Object Detection and OCR**
+    * *Task a:* Takes ownership of Amber. Builds an independent Python function that runs the object detection, tunes the bounding box confidence thresholds, and returns the logical output.
+    * *Task b:* Takes ownership of DocVQA. Sets up the offline OCR (e.g., EasyOCR), writes the function to extract the raw text from the image, and formats it cleanly to be appended to the prompt.
+* **Member 4: Integration & Evaluation**
+    * *Task:* Sets up a shared GitHub repo (or Live Share), writes the function to dump the final predictions into the required JSON format, handles error catching (try/except blocks so the code doesn't crash halfway), and runs small local tests to ensure the assembled pipeline actually works.
 
 ## Score Calculation
 
