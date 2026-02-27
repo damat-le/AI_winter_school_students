@@ -2,6 +2,8 @@
 
 Welcome to the Zero-Shot MLLM Agent Challenge! Follow this guide to quickly set up your environment, load the model, and perform inference.
 
+Directory containing all the materials: `/leonardo_scratch/fast/tra26_minwinsc/MLLM_challenge`
+
 ---
 
 ## Step 1: Environment Setup
@@ -11,7 +13,7 @@ Welcome to the Zero-Shot MLLM Agent Challenge! Follow this guide to quickly set 
    - Create and activate a virtual environment, then install dependencies from requirements.txt:
      ```bash
      module purge
-     module load python
+     module load python
      module load cuda
      python -m venv .venv
      source .venv/bin/activate
@@ -42,20 +44,14 @@ Welcome to the Zero-Shot MLLM Agent Challenge! Follow this guide to quickly set 
 ## Step 3: Perform Inference
 
 1. **Run the Script**:
-   - Open the `setup_and_inference.py` file.
+   - Open the `setup_and_inference.ipynb` file.
    - Replace the placeholders in the `image_path` and `question` variables:
      ```python
      image_path = "path_to_your_image.jpg"  # Replace with your image path
      question = "What is shown in this image?"  # Replace with your question
      ```
 
-2. **Execute the Script**:
-   - Run the script:
-     ```bash
-     python setup_and_inference.py
-     ```
-
-3. **View the Response**:
+2. **View the Response**:
    - The script will print the model's response to the console.
 
 ---
